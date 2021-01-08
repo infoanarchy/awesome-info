@@ -28,5 +28,6 @@ https://github.com/fhunter/unix-lectures - Лекции по командной 
 ## latex
 https://github.com/ledovsky/latex-gost-template - Шаблон для создания latex документов по ГОСТ  
 
-
+## QA/QC Тестирование
+https://github.com/Vladislav610/QA_bible - Теория по тематике обеспечения качества  
 

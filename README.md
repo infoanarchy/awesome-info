@@ -34,6 +34,7 @@ https://github.com/ledovsky/latex-gost-template - Шаблон для созда
 
 ## QA/QC Тестирование
 https://github.com/Vladislav610/QA_bible - Теория по тематике обеспечения качества  
+https://docs.google.com/spreadsheets/d/1oAZoa3vEx-aoVzrON2Y0qh0F5fp23PfDJ6KhkJCwO2E/ - Список qa курсов  
 
 ## Компьютерное железо
 https://2ch.hk/faq/faq_hw.html - много почти обо всём, но могло и устареть  

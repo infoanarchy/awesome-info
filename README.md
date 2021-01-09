@@ -35,3 +35,12 @@ https://github.com/ledovsky/latex-gost-template - Шаблон для созда
 ## QA/QC Тестирование
 https://github.com/Vladislav610/QA_bible - Теория по тематике обеспечения качества  
 
+## Компьютерное железо
+https://2ch.hk/faq/faq_hw.html - много почти обо всём, но могло и устареть  
+https://github.com/for2ch/keyboard/wiki - О механических клавиатурах  
+https://github.com/mashiro-tan/chinese_1151_faq - о китайских склейках процессоров на 1151 сокет(актуально на начало 2021)  
+https://docs.google.com/document/d/1din1otIgfmXp4E6IbgWlpGo9Xj3wYZhQDfNJ45Z7Gpw/edit - Компьютерные мыши  
+https://wikidevi.wi-cat.ru/ - Сетевое оборудование  
+https://github.com/ThinkPadThink/Thinkpadthinkpad https://github.com/pepe-i-shim/thinkpad-from-ebay http://www.thinkwiki.org/ - О ноутбуках серии ThinkPad  
+https://xeon-e5450.ru/ https://github.com/ThinkPadThink/Guide2011-3 - Использование xeon на рабочем пк и китайских материнских плат  
+

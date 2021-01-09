@@ -45,3 +45,7 @@ https://wikidevi.wi-cat.ru/ - Сетевое оборудование
 https://github.com/ThinkPadThink/Thinkpadthinkpad https://github.com/pepe-i-shim/thinkpad-from-ebay http://www.thinkwiki.org/ - О ноутбуках серии ThinkPad  
 https://xeon-e5450.ru/ https://github.com/ThinkPadThink/Guide2011-3 - Использование xeon на рабочем пк и китайских материнских плат  
 
+## Сообщества  
+https://github.com/russian-meshnet/faq - Сообщество по mesh сетям и распределённым системам
+https://github.com/netstalking-core/netstalking-catalogue - Сообщество по поиску в сети  
+
